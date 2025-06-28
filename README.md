@@ -2,8 +2,6 @@
 
 A simple and fast **Currency Converter web app** built using **React** and **Vite**. Easily convert between global currencies in real-time using live exchange rate APIs.
 
-![Currency Converter Screenshot](./public/screenshot.png)
-
 ---
 
 ## 🚀 Features
@@ -21,12 +19,6 @@ A simple and fast **Currency Converter web app** built using **React** and **Vit
 - [Vite](https://vitejs.dev/)
 - [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [HTML5 + CSS3](https://developer.mozilla.org/en-US/docs/Web)
-
----
-
-## 📸 Demo
-
-Live preview (optional): _Add your deployment link here_
 
 ---
 
