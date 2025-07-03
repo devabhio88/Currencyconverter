@@ -7,7 +7,7 @@ A simple and fast **Currency Converter web app** built using **React** and **Vit
 ## 🚀 Features
 
 - 🌍 Convert between major world currencies
-- 🔄 Real-time exchange rates using API (add your API details below)
+- 🔄 Real-time exchange rates using API 
 - 🧮 Clean UI and responsive layout
 - ⚡ Powered by Vite for lightning-fast development
 
